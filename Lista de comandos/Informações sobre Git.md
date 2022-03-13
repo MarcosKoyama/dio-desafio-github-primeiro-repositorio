@@ -2,4 +2,4 @@
 
 Comandos e informações sobre Git
 
-[info](https://comandosgit.github.io/#basico)
+https://comandosgit.github.io/#basico
